@@ -122,7 +122,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.7</version>
+			<version>1.7.34</version>
 		</dependency>
 
 				<!-- TESTING -->
@@ -169,7 +169,7 @@
 		 <dependency>				
             <groupId>org.seleniumhq.selenium</groupId>								
             <artifactId>selenium-java</artifactId>								
-            <version>4.0.0</version>								
+            <version>4.11.0</version>								
 		</dependency>				
     	
 	   
