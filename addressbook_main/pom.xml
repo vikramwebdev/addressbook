@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
-        <vaadin.version>8.17.0</vaadin.version>
+        <vaadin.version>8.24.0</vaadin.version>
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
 			<sauceUser>ssriram</sauceUser>
 		<sauceKey>198ffad5-5b21-421b-9f62-847273245db2</sauceKey>
